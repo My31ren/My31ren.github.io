@@ -31,12 +31,16 @@ My research interest includes exploring the effects and mechanisms of environmen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environ. Pollu.</div><img src='images/EP-2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Ascertaining Sensitive Exposure Biomarkers of Various Metal(loid)s to Embryo Implantation](https://doi.org/10.1016/j.envpol.2024.123679)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Mengyuan Ren**, Tianxiang Wu, Shuo Yang, ... Bin Wang*, Mingliang Fang.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Highlight**]
+- Close relations exist between metals exposure and embryo implantation failure (EIF).
+- Identifying sensitive metal biomarkers and exploring mechanisms for EIF is crucial.
+- We built a framework for sensitive biomarkers screening with integrated information.
+- Four out of 272 candidates were identified as sensitive metal biomarkers for EIF.
+- Diverse pathways were identified as potential mechanisms for these biomarkers on EIF.
 </div>
 </div>
 
