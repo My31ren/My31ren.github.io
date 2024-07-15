@@ -29,7 +29,7 @@ My research interest includes exploring the effects and mechanisms of environmen
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environ. Pollu.</div><img src='images/EP-2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Pollution</div><img src='images/EP-2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ascertaining Sensitive Exposure Biomarkers of Various Metal(loid)s to Embryo Implantation](https://doi.org/10.1016/j.envpol.2024.123679)
