@@ -61,7 +61,7 @@ My research interest includes exploring the effects and mechanisms of environmen
 </div>
 </div>
 
-[-*Click here to check out full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
+[-*Click here to check out his full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Report Award. The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants in Nankai, China.  
