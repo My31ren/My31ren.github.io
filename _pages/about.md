@@ -61,7 +61,7 @@ My research interest includes exploring the effects and mechanisms of environmen
 </div>
 </div>
 
-[:point_right:*Click here to check out my full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
+[*Click here to check out my full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
 <br/>
 <br/>
 
