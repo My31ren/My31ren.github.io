@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-My research interest includes exploring the effects and mechanisms of environmental factors on human health using multi-omics approaches. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, and building interpretable prediction models using advanced machine learning algorithms. I have published 23 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>229</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes exploring the effects and mechanisms of environmental factors on human health using multi-omics approaches. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, and building interpretable prediction models using advanced machine learning algorithms. I have published 23 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>229</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
