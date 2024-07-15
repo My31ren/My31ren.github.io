@@ -23,7 +23,7 @@ My research interest includes exploring the effects and mechanisms of environmen
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren receiving his Epidemiology and Biostatistics Ph.D degree in Peking University!
+- *2024.07*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren receiving his Epidemiology and Biostatistics Ph.D degree in Peking University!😄
 - *2024.06*: &nbsp;🎉🎉 Congrats for Mengyuan Ren receiving the oral postdoc position offer from the co-supervisor Dr. Donghai Liang at the Emory University!
 - *2024.06*: &nbsp;🎉🎉 Congrats for Mengyuan Ren being awarded with "Outstanding Report Award" at the 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants in Nankai, China!
 
