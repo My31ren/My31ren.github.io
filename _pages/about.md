@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to Dr. Mengyuan Ren's academic webpage! Here this page is established to record my academic path, experiences, and achievements. You can also have a quick access knowing me. My major is epidemiology and biostatistics. I just received my Ph.D degree in Peking University with the supervision of Dr. Bin Wang at the Institute of Reproductive and Child Health, School of Public Health, Peking University. During my Ph.D candidate period, I was fully trained with multi-disciplinaries including epidemiology, biostatistics, bioinformatics, and environmental chemistry. 
+
 My research interest includes exploring the effects and mechanisms of environmental factors on human health using multi-omics approaches. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, and building interpretable prediction models using advanced machine learning algorithms. I have published 23 papers at the top international journals with total <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>229</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
@@ -44,19 +45,39 @@ My research interest includes exploring the effects and mechanisms of environmen
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Hygiene and Environmental Health Advances</div><img src='images/HEHA-2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Applying Hair Exposome for Linking Environmental Exposure to Reproductive Health: A Comprehensive Review and Research Perspective](https://doi.org/10.1016/j.heha.2023.100086)
+
+**Mengyuan Ren**, Mingliang Fang, Jing Liu, ... Bin Wang*.
+
+[**Highlight**]
+- Environmental exposures have close relationship with reproductive health.
+- Hair exposome has huge potential and demands in health risk assessment studies.
+- Reliability of hair to represent exposure and effect biomarkers is of high concern.
+- Reliable hair biomarker database based on previous literatures was established.
+- Analytical framework on hair exposome for reproductive health was proposed.
+</div>
+</div>
+
+[-*Click here to check out full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Report Award. The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants in Nankai, China.  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.07*, Ph.D, School of Public Health, Peking University, Beijing, China
+- *2018.09 - 2020.07*, MM, School of Public Health, Peking University, Beijing, China
+- *2013.09 - 2018.07*, MB, School of Public Health, Peking University, Beijing, China 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences
+- The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2024, Nankai, China. *Using Knowledge-driven Framework to Establish Environment and Reproductive Health Risk Assessment Model*, **Oral**. 
+- The 5th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2023, Zhengzhou, China. *Metallomics and Preterm Birth Risk: from Exposure Biomarkers to Key Biological Pathways*, **Oral**.
+- The 2020 Environmental and Health Conference, Nanning, China. *Associations between Maternal Hair Heavy Metals and Nutritional Trace Elements with Preterm Birth Risk*, **Poster**.
+- The 10th National Conference on Environmental Chemistry, 10th NCEC, 2019, Tianjin, China. *Simultaneous Analysis of Typical Environmental Organic Pollutants and Metal(loid) Elements in Human Hair: An Exposome Approach*, **Oral**；*Metallomics and Reproductive Health: Fetal Neural Tube Defects as an example*, **Oral**.
+- The 2018 International Symposium on Environment and Health, 2018, Shanghai, China. *Association between passive smoking and plasma folate levels among women of childbearing age in China*, **Poster**.
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.09*, [Research Assistant](https://irch.pku.edu.cn/), Beijing, China.
