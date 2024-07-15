@@ -78,8 +78,8 @@ My research interest includes exploring the effects and mechanisms of environmen
 - The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2024, Nankai, China. *Using Knowledge-driven Framework to Establish Environment and Reproductive Health Risk Assessment Model*, **Oral**. 
 - The 5th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2023, Zhengzhou, China. *Metallomics and Preterm Birth Risk: from Exposure Biomarkers to Key Biological Pathways*, **Oral**.
 - The 2020 Environmental and Health Conference, Nanning, China. *Associations between Maternal Hair Heavy Metals and Nutritional Trace Elements with Preterm Birth Risk*, **Poster**.
-- The 10th National Conference on Environmental Chemistry, 10th NCEC, 2019, Tianjin, China. *Simultaneous Analysis of Typical Environmental Organic Pollutants and Metal(loid) Elements in Human Hair: An Exposome Approach*, **Oral**；*Metallomics and Reproductive Health: Fetal Neural Tube Defects as an example*, **Oral**.
-- The 2018 International Symposium on Environment and Health, 2018, Shanghai, China. *Association between passive smoking and plasma folate levels among women of childbearing age in China*, **Poster**.
+- The 10th National Conference on Environmental Chemistry (NCEC), 2019, Tianjin, China. *Simultaneous Analysis of Typical Environmental Organic Pollutants and Metal(loid) Elements in Human Hair: An Exposome Approach*, **Oral**；*Metallomics and Reproductive Health: Fetal Neural Tube Defects as An Example*, **Oral**.
+- The 2018 International Symposium on Environment and Health (ISEH), 2018, Shanghai, China. *Association between Passive Smoking and Plasma Folate Levels among Women of Childbearing Age in China*, **Poster**.
 
 
 # 💻 Internships
