@@ -16,12 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Dr. Mengyuan Ren's academic webpage! Here this page is established to record my academic path, experiences, and achievements. You can also have a quick access knowing me. My major is epidemiology and biostatistics. I just received my Ph.D degree in Peking University with the supervision of Dr. Bin Wang at the Institute of Reproductive and Child Health, School of Public Health, Peking University. During my Ph.D candidate period, I was fully trained with multi-disciplinaries including epidemiology, biostatistics, bioinformatics, and environmental chemistry. 
-
-My research interest includes exploring the effects and mechanisms of environmental factors on human health using multi-omics approaches. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, and building interpretable prediction models using advanced machine learning algorithms. I have published 23 papers at the top international journals such as *Environ. Int.*, *The Innovation*,...   <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+Welcome to Dr. Mengyuan Ren's academic webpage! Here this page is established to record my academic path, experiences, and achievements. You can also have a quick access knowing me. My major is epidemiology and biostatistics. I just received my Ph.D degree in Peking University with the supervision of Dr. Bin Wang at the Institute of Reproductive and Child Health, School of Public Health, Peking University. During my Ph.D candidate period, I was fully trained with multi-disciplinaries including epidemiology, biostatistics, bioinformatics, and environmental chemistry. Now I'm working as a postdoc at RSPH in Emory University with the supervision of Dr. Donghai Liang. 
+My research interest includes exploring the effects and mechanisms of environmental factors on human health using multi-omics approaches, including but are not limited to exposome, microbiome and metabolome. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, and building interpretable prediction models using advanced machine learning algorithms. During my postdoc period, we will work with collegues and collaborators on diverse exciting projects using multi-omics data to investigate how environmental exposures influcence maternal and child health outcomes through omics approaches. 
+I have published 23 papers at the top international journals such as *Environ. Int.*, *The Innovation*,...   <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren offically started his postdoc training program at Emory University!
 - *2024.07*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren receiving his Epidemiology and Biostatistics Ph.D degree in Peking University!😄
 - *2024.06*: &nbsp;🎉🎉 Congrats for Mengyuan Ren receiving the oral postdoc position offer from the co-supervisor Dr. Donghai Liang at the Emory University!
 - *2024.06*: &nbsp;🎉🎉 Congrats for Mengyuan Ren being awarded with "Outstanding Report Award" at the 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants in Nankai, China!
@@ -81,4 +82,4 @@ My research interest includes exploring the effects and mechanisms of environmen
 
 
 # 💻 Internships
-- *2024.07 - 2024.09*, [Research Assistant](https://irch.pku.edu.cn/), Beijing, China.
+- *2024.07 - 2024.09*, [Research Assistant(Unofficial)](https://irch.pku.edu.cn/), Beijing, China.
