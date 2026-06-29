@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to Dr. Mengyuan Ren's academic webpage! Here this page is established to record my academic path, experiences, and achievements. You can also have a quick access knowing me. My major is epidemiology and biostatistics. I just received my Ph.D degree in Peking University with the supervision of Dr. Bin Wang at the Institute of Reproductive and Child Health, School of Public Health, Peking University. During my Ph.D candidate period, I was fully trained with multi-disciplinaries including **epidemiology**, **health statistics**, and **environmental science**. Now I'm working as a postdoc at RSPH in Emory University with the supervision of Dr. Donghai Liang. 
-My research interest includes exploring the effects and mechanisms of environmental factors on human health using **multi-omics** approaches, including but are not limited to **exposome**, and **metabolome**. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, we will work with collegues and collaborators on diverse exciting projects using multi-omics data to investigate how environmental exposures influcence maternal and child health outcomes through omics approaches. 
+My research interest includes exploring the effects and mechanisms of environmental factors on human health using **multi-omics** approaches, including but are not limited to **exposome**, **metagenome**, and **metabolome**. Recently, I focus on establishing integrated analytical framework on identifying disease-specific sensitive biomarkers among environmental exposures in mixture, we will work with collegues and collaborators on diverse exciting projects using multi-omics data to investigate how environmental exposures influcence maternal and child health outcomes through omics approaches. 
 I have published **24** papers at the top international journals such as *Environ. Int.*, *The Innovation*,...   <a href='https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
@@ -80,7 +80,19 @@ I have published **24** papers at the top international journals such as *Enviro
 <br/>
 <br/>
 
+# 📝 Projects
+1. **Prenatal Air Pollution and Newborn Neurodevelopment across ECHO cohorts (PANDA-ECHO)**
+<br/>Sponsor: NIEHS Environmental Influences on Child Health Outcomes (ECHO) Program OIF Award
+<br/>Period: 2026.06 - 2028.05
+<br/>Role: Principal Investigator
+<br/>Funding level: $200,000
+<br/>Description: Lead and manage entire project, design independent research studies and data analysis, mentor real students.
+
+
 # 🎖 Honors and Awards
+- *2026.06* The International Society for Environmental Epidemiology North America Chapter (ISEE-NAC) Travel award ($1000).
+- *2025.10* Metabolomics Association of North America (MANA) ECM Travel Grant ($1300).
+- *2025.04* Environmental Health Perspective Top Peer Reviewer (2024 year).
 - *2024.06* Outstanding Report Award. The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants in Nankai, China.  
 
 # 📖 Educations
@@ -89,6 +101,17 @@ I have published **24** papers at the top international journals such as *Enviro
 - *2013.09 - 2018.07*, MB, School of Public Health, Peking University, Beijing, China 
 
 # 💬 Conferences
+- The International Society for Environmental Epidemiology (ISEE) 2026, Munich, Germany. *Unveiling metabolic signatures and pathways linking fine particulate matter to ADRD: A brain metabolome-wide association study*, **Oral**.
+- The International Society for Environmental Epidemiology (ISEE) 2026, Munich, Germany. *High-resolution Metabolomics Reveal Metabolites Intermediate the Associations between Prenatal Traffic-Related Air Pollution Exposures and Infant Neurodevelopment*, **Poster**.
+- The Alzheimer’s Association International Conference (AAIC) 2026, UK. *Unveiling metabolic signatures and pathways linking fine particulate matter to ADRD: A brain metabolome-wide association study*, **Poster**.
+- The International Society for Environmental Epidemiology North America Chapter (ISEE-NAC) 2026, Baltimore, the U.S. *Unveiling metabolic signatures and pathways linking fine particulate matter to ADRD: A brain metabolome-wide association study*, **Symposium talk**.
+- The International Conference on Alzheimer’s and Parkinson’s Diseases and Related Neurological Disorders 2026 (Virtual). *Unveiling metabolic signatures and pathways linking fine particulate matter to ADRD: A brain metabolome-wide association study*, **Poster**.
+- The Metabolomics Association of North America (MANA) 2025, Banff, Canada. *Metabolomics Wide Association Study on Ambient Air Pollution Exposure and Lung Cancer Incidence in the Cancer Prevention Study Cohorts*, **Oral**. 
+- The Joint Annual Meeting of the International Society of Exposure Science (ISES) and the International Society for Environmental Epidemiology (ISEE), 2025, Atlanta, the U.S. *Using Environmental Mixture Exposure-Triggered Biological Knowledge-Driven Machine Learning to Predict Early Pregnancy Loss*, **Symposia Talk**. 
+- The Joint Annual Meeting of the International Society of Exposure Science (ISES) and the International Society for Environmental Epidemiology (ISEE), 2025, Atlanta, the U.S. *Metabolomic Signatures Reveal the Associations between Traffic-Related Air Pollution Exposures and Preterm Birth Risk in the Atlanta African American Maternal-Child Cohort*, **Poster**. 
+- The 2025 Metabolomics Society Conference, Prague, Czech Republic. *Longitudinal Metabolomic Signatures Reveal the Trajectories between Pre- and Peri-conceptional Traffic-Related Air Pollution Exposures and Preterm Birth Risk*, **Poster**. 
+
+
 - The 6th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2024, Nankai, China. *Using Knowledge-driven Framework to Establish Environment and Reproductive Health Risk Assessment Model*, **Oral**. 
 - The 5th Academic Conference on Environmental Risk and Prevention and Control of Emerging Contaminants, 2023, Zhengzhou, China. *Metallomics and Preterm Birth Risk: from Exposure Biomarkers to Key Biological Pathways*, **Oral**.
 - The 2020 Environmental and Health Conference, Nanning, China. *Associations between Maternal Hair Heavy Metals and Nutritional Trace Elements with Preterm Birth Risk*, **Poster**.
