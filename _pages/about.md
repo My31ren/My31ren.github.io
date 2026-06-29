@@ -29,7 +29,7 @@ I have published **24** papers at the top international journals such as *Enviro
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science & Technology</div><img src='images/EST-2025.jepg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science & Technology</div><img src='images/EST-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Using Environmental Mixture Exposure-Triggered Biological Knowledge-Driven Machine Learning to Predict Early Pregnancy Loss](https://doi.org/10.1021/acs.est.5c05389)
