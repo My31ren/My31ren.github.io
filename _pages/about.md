@@ -22,6 +22,9 @@ I have published **24** papers at the top international journals such as *Enviro
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren received travel award ($1000) from the ISEE-NAC 2026 conference in Baltimore, US!
+- *2026.05*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren got his first grant funded by ECHO under NIH! [👉*See more*]((https://echochildren.org/celebrating-innovation-meet-the-oif-round-3-principal-investigators/)) **...**
+- *2025.10*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren received travel award ($1300) from the MANA 2025 conference in Banff, Canada!
 - *2024.11*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren offically started his postdoc training program at Emory University!
 - *2024.07*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren receiving his Epidemiology and Biostatistics Ph.D degree in Peking University!😄
 - *2024.06*: &nbsp;🎉🎉 Congrats for Mengyuan Ren receiving the oral postdoc position offer from the co-supervisor Dr. Donghai Liang at the Emory University!
