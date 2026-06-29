@@ -29,6 +29,21 @@ I have published **24** papers at the top international journals such as *Enviro
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Science & Technology</div><img src='images/EST-2025.jepg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Using Environmental Mixture Exposure-Triggered Biological Knowledge-Driven Machine Learning to Predict Early Pregnancy Loss](https://doi.org/10.1021/acs.est.5c05389)
+
+**Mengyuan Ren**, Tianxiang Wu, Han Zhang, ... Mingliang Fang, Bin Wang*.
+
+[**Highlight**]
+- Built a knowledge-driven machine learning (ML) framework for exposome study.
+- Focusing on early pregnancy loss, we found several associated exposomics factors.
+- The built model yielded accurate and robust prediction even in small sample size. 
+- Such ML framework also offers biological insights in a cost-efficient way. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environmental Pollution</div><img src='images/EP-2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
