@@ -23,7 +23,7 @@ I have published **24** papers at the top international journals such as *Enviro
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren received travel award ($1000) from the ISEE-NAC 2026 conference in Baltimore, US!
-- *2026.05*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren got his first grant funded by ECHO under NIH! [👉*See more*]((https://echochildren.org/celebrating-innovation-meet-the-oif-round-3-principal-investigators/)) **...**
+- *2026.05*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren got his first grant funded by ECHO under NIH! [👉*See more*](https://echochildren.org/celebrating-innovation-meet-the-oif-round-3-principal-investigators/) **...**
 - *2025.10*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren received travel award ($1300) from the MANA 2025 conference in Banff, Canada!
 - *2024.11*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren offically started his postdoc training program at Emory University!
 - *2024.07*: &nbsp;🎉🎉 Congrats for Dr. Mengyuan Ren receiving his Epidemiology and Biostatistics Ph.D degree in Peking University!😄
@@ -79,7 +79,7 @@ I have published **24** papers at the top international journals such as *Enviro
 </div>
 </div>
 
-[👉*Click here to check out my full publications*]((https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl)) **...**
+[👉*Click here to check out my full publications*](https://scholar.google.com/citations?user=Wk035rcAAAAJ&hl) **...**
 <br/>
 <br/>
 
